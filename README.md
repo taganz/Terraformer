@@ -1,5 +1,5 @@
-##Terraformer
-###Ecoystem simulator
+## Terraformer
+### Visual ecosystem simulator
 
 **Terraformer** is a project to build a free ecosystem simulation videogame.
 
@@ -21,8 +21,7 @@ Some technical documentation at **Terraformer documentation.pdf**.
 This is a PDF file with some "as is" documentation.
 Please, take in account its a collection of draft notes. Many of them are not translated from catalan.
 
-If you need some help or have some comments, please let me know at 
-https://terraformersim.wordpress.com/
+If you need some help or have some comments, please let me know.
 
 Ricard 1/7/16
 
