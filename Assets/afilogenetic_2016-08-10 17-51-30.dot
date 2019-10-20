@@ -1,0 +1,11 @@
+strict digraph terraformersim_phylogenetic_tree {
+//This is phylogenetic tree created by Terraformer
+//terraformersim.wordpress.org
+//  (online .dot graph viewer at http://graphviz-dev.appspot.com/)
+rankdir=LR;
+"Tree" -> "0-069-366-000" [ label = "Tree- T:0" ]; // 4.00 - 33.02
+"Grass" -> "0-069-358-000" [ label = "Grass- T:0" ]; // 4.00 - 32.91
+"White Rabbit" -> "0-069-350-110" [ label = "White Rabbit- T:0" ]; // 4.00 - 33.32
+"Fox" -> "0-069-352-210" [ label = "Fox- T:0" ]; // 4.00 - 33.32
+
+}

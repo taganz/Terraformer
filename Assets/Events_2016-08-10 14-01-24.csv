@@ -1,0 +1,163 @@
+Time, x, y, z, temperature, idS, genusS, nameS, genomeS, action, idO, genusO, nameO, genomeO
+0, -34, 238, 11, 32.6, 4-1, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -46, 187, 32, 33.1, 4-2, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -44, 223, -23, 32.8, 4-3, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -100, 224, 5, 32.8, 4-4, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -98, 201, -38, 33.0, 4-5, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -55, 188, -4, 33.1, 4-6, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -61, 198, -15, 33.0, 4-7, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -45, 194, 29, 33.1, 4-8, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -60, 174, 15, 33.3, 4-9, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -27, 249, 13, 32.5, 4-10, g_arbre, Tree, 0-069-366-000, BORN, , , , , , 1
+0, -40, 195, 36, 33.0, 5-11, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -124, 199, -66, 33.0, 5-12, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 39, 294, -98, 32.1, 5-13, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -115, 130, -90, 33.7, 5-14, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -34, 174, -104, 33.3, 5-15, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 113, 116, -30, 33.8, 5-16, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -78, 185, -158, 33.1, 5-17, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 89, 89, -19, 34.1, 5-18, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -63, 232, -176, 32.7, 5-19, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 42, 269, -215, 32.3, 5-20, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 50, 224, -146, 32.8, 5-21, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -74, 214, -49, 32.9, 5-22, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -139, 242, -66, 32.6, 5-23, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -142, 232, -121, 32.7, 5-24, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 46, 115, -35, 33.8, 5-25, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 34, 81, -29, 34.2, 5-26, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 15, 268, -219, 32.3, 5-27, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 5, 215, -183, 32.8, 5-28, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 33, 211, -83, 32.9, 5-29, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -93, 218, -167, 32.8, 5-30, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -71, 213, -50, 32.9, 5-31, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 136, 98, -86, 34.0, 5-32, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 11, 138, -54, 33.6, 5-33, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -1, 197, -81, 33.0, 5-34, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 126, 283, -159, 32.2, 5-35, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 57, 88, 7, 34.1, 5-36, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 48, 228, -119, 32.7, 5-37, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 79, 273, -165, 32.3, 5-38, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 130, 254, -130, 32.5, 5-39, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -1, 178, -5, 33.2, 5-40, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -123, 230, -154, 32.7, 5-41, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 83, 273, -193, 32.3, 5-42, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 84, 160, -91, 33.4, 5-43, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -19, 191, -72, 33.1, 5-44, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 98, 166, -111, 33.3, 5-45, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 91, 139, -72, 33.6, 5-46, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 51, 224, -95, 32.8, 5-47, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 100, 133, -2, 33.7, 5-48, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -93, 209, -42, 32.9, 5-49, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 114, 141, -16, 33.6, 5-50, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, -119, 173, -131, 33.3, 5-51, g_herba, Grass, 0-069-358-000, BORN, , , , , , 1
+0, 78, 145, 60, 33.5, 6-52, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -20, 220, 33, 32.8, 6-53, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -85, 199, -67, 33.0, 6-54, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -11, 222, -96, 32.8, 6-55, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 85, 108, 3, 33.9, 6-56, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -65, 116, -93, 33.8, 6-57, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -16, 181, -57, 33.2, 6-58, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 40, 70, 43, 34.3, 6-59, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -67, 211, -40, 32.9, 6-60, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -33, 125, 66, 33.7, 6-61, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 31, 177, -70, 33.2, 6-62, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -138, 196, -108, 33.0, 6-63, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -66, 195, -4, 33.0, 6-64, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -46, 131, 57, 33.7, 6-65, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 57, 127, -37, 33.7, 6-66, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -113, 191, -148, 33.1, 6-67, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -4, 96, 56, 34.0, 6-68, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -48, 220, -191, 32.8, 6-69, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 101, 292, -152, 32.1, 6-70, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 78, 265, -179, 32.3, 6-71, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -97, 165, 32, 33.3, 6-72, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -28, 114, -142, 33.9, 6-73, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 28, 232, -87, 32.7, 6-74, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -50, 228, -196, 32.7, 6-75, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 74, 173, -90, 33.3, 6-76, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -81, 216, -25, 32.8, 6-77, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 56, 270, -201, 32.3, 6-78, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 25, 113, -47, 33.9, 6-79, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -56, 96, -119, 34.0, 6-80, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -116, 211, -16, 32.9, 6-81, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 9, 166, -138, 33.3, 6-82, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -11, 217, -93, 32.8, 6-83, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 104, 102, -53, 34.0, 6-84, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -95, 223, -168, 32.8, 6-85, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 90, 90, -23, 34.1, 6-86, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 20, 65, 60, 34.3, 6-87, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 51, 189, -133, 33.1, 6-88, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -44, 202, -39, 33.0, 6-89, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 39, 276, -196, 32.2, 6-90, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 51, 96, -16, 34.0, 6-91, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -62, 164, 28, 33.4, 6-92, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 14, 194, -77, 33.1, 6-93, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 65, 100, -21, 34.0, 6-94, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 38, 277, -210, 32.2, 6-95, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 18, 270, -212, 32.3, 6-96, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, 126, 115, -95, 33.8, 6-97, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -41, 116, -134, 33.8, 6-98, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -86, 246, -187, 32.5, 6-99, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -8, 152, -154, 33.5, 6-100, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -24, 173, -41, 33.3, 6-101, g_conill, White Rabbit, 0-069-350-110, BORN, , , , , , 1
+0, -64, 148, 40, 33.5, 7-102, g_guineu, Fox, 0-069-352-210, BORN, , , , , , 1
+0, 13, 219, -88, 32.8, 7-103, g_guineu, Fox, 0-069-352-210, BORN, , , , , , 1
+0, -97, 197, -19, 33.0, 7-104, g_guineu, Fox, 0-069-352-210, BORN, , , , , , 1
+0, 32, 76, 58, 34.2, 7-105, g_guineu, Fox, 0-069-352-210, BORN, , , , , , 1
+0, 123, 234, -121, 32.7, 7-106, g_guineu, Fox, 0-069-352-210, BORN, , , , , , 1
+14, -74, 214, -49, 32.9, 5-22, g_herba, Grass, 0-069-358-000, DIED, 6-60, g_conill, White Rabbit, 0-069-350-110, PREY
+14, -74, 214, -48, 32.9, 6-60, g_conill, White Rabbit, 0-069-350-110, EAT, 5-22, g_herba, Grass, 0-069-358-000, heMenjatPes=0.8 pes=5.2
+30, 68, 108, 39, 33.9, 6-52, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -27, 202, 41, 33.0, 6-53, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -79, 215, -59, 32.8, 6-54, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 0, 230, -95, 32.7, 6-55, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 96, 130, 4, 33.7, 6-56, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -108, 133, -88, 33.7, 6-57, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -57, 205, -48, 32.9, 6-58, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 56, 78, 22, 34.2, 6-59, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -49, 182, 86, 33.2, 6-61, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 26, 188, -74, 33.1, 6-62, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -126, 170, -118, 33.3, 6-63, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -84, 200, 11, 33.0, 6-64, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -27, 203, 41, 33.0, 6-65, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 48, 140, -42, 33.6, 6-66, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -110, 229, -158, 32.7, 6-67, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -19, 124, 77, 33.8, 6-68, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -51, 221, -181, 32.8, 6-69, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 125, 281, -171, 32.2, 6-70, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 69, 259, -174, 32.4, 6-71, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -90, 217, 6, 32.8, 6-72, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -51, 100, -131, 34.0, 6-73, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 31, 227, -86, 32.7, 6-74, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -52, 222, -181, 32.8, 6-75, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 76, 154, -80, 33.5, 6-76, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -84, 213, -25, 32.9, 6-77, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 46, 273, -180, 32.3, 6-78, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 22, 145, -58, 33.5, 6-79, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -40, 175, -93, 33.2, 6-80, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -122, 212, -51, 32.9, 6-81, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 37, 179, -143, 33.2, 6-82, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -27, 189, -92, 33.1, 6-83, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 92, 92, -34, 34.1, 6-84, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -100, 205, -159, 32.9, 6-85, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 100, 97, -23, 34.0, 6-86, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 25, 88, 75, 34.1, 6-87, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 57, 214, -122, 32.9, 6-88, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -60, 205, -43, 32.9, 6-89, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 39, 278, -207, 32.2, 6-90, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 56, 111, -30, 33.9, 6-91, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -64, 163, 26, 33.4, 6-92, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 16, 191, -76, 33.1, 6-93, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 76, 128, -44, 33.7, 6-94, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 15, 268, -209, 32.3, 6-95, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 27, 269, -218, 32.3, 6-96, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, 91, 152, -89, 33.5, 6-97, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -45, 130, -110, 33.7, 6-98, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -67, 230, -188, 32.7, 6-99, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -24, 185, -175, 33.1, 6-100, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+30, -5, 182, -71, 33.2, 6-101, g_conill, White Rabbit, 0-069-350-110, DIED, , , , , STARVE
+40, -70, 133, 51, 33.7, 7-102, g_guineu, Fox, 0-069-352-210, DIED, , , , , STARVE
+40, 11, 207, -83, 32.9, 7-103, g_guineu, Fox, 0-069-352-210, DIED, , , , , STARVE
+40, -105, 220, -8, 32.8, 7-104, g_guineu, Fox, 0-069-352-210, DIED, , , , , STARVE
+40, 26, 73, 43, 34.3, 7-105, g_guineu, Fox, 0-069-352-210, DIED, , , , , STARVE
+40, 124, 254, -184, 32.5, 7-106, g_guineu, Fox, 0-069-352-210, DIED, , , , , STARVE

@@ -1,0 +1,1255 @@
+Time, x, y, z, temperature, idS, genusS, nameS, genomeS, action, idO, genusO, nameO, genomeO
+0, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 22, 0, 52, 25.0, 3-6, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -11, 0, 52, 25.0, 3-7, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -7, 0, 7, 25.0, 3-8, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -21, 0, -2, 25.0, 3-9, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, 1, 0, 6, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, 42, 0, -5, 25.0, 10-11, g_ovella_vermella, Red sheep, 0-067-356-110, BORN, , , , , , 1
+0, 85, 0, -32, 25.0, 10-12, g_ovella_vermella, Red sheep, 0-067-356-110, BORN, , , , , , 1
+0, 41, 0, -56, 25.0, 10-13, g_ovella_vermella, Red sheep, 0-067-356-110, BORN, , , , , , 1
+0, 54, 0, -30, 25.0, 10-14, g_ovella_vermella, Red sheep, 0-067-356-110, BORN, , , , , , 1
+0, 83, 0, 18, 25.0, 10-15, g_ovella_vermella, Red sheep, 0-067-356-110, BORN, , , , , , 1
+0, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -93, 0, 11, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -89, 0, -37, 25.0, 3-22, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -32, 0, -9, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -12, 0, 9, 25.0, 3-24, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -15, 0, 13, 25.0, 3-25, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, BORN, , , , , , 1
+0, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, BORN, , , , , , 1
+0, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, BORN, , , , , , 1
+0, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, BORN, , , , , , 1
+0, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, BORN, , , , , , 1
+0, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, BORN, , , , , , 1
+0, -2, 0, -94, 25.0, 3-36, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -34, 0, -49, 25.0, 3-37, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, 24, 0, -80, 25.0, 3-38, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, 14, 0, -20, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, 27, 0, -87, 25.0, 3-40, g_ovella, Sheep, 0-067-354-119, BORN, , , , , , 1
+0, -2, 0, 17, 25.0, 7-41, g_llop, Wolf, 0-067-354-140, BORN, , , , , , 1
+0, -1, 0, -13, 25.0, 7-42, g_llop, Wolf, 0-067-354-140, BORN, , , , , , 1
+0, -13, 0, -16, 25.0, 7-43, g_llop, Wolf, 0-067-354-140, BORN, , , , , , 1
+0, 24, 0, 29, 25.0, 0-44, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -48, 0, -46, 25.0, 0-45, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 9, 0, -24, 25.0, 0-46, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -23, 0, 4, 25.0, 0-47, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 17, 0, 65, 25.0, 0-48, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 53, 0, -14, 25.0, 0-49, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -60, 0, 3, 25.0, 0-50, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -5, 0, -5, 25.0, 0-51, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -26, 0, -19, 25.0, 0-52, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 64, 0, -23, 25.0, 0-53, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 50, 0, -36, 25.0, 0-54, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -27, 0, 29, 25.0, 0-55, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 37, 0, -32, 25.0, 0-56, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -30, 0, 1, 25.0, 0-57, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -69, 0, -25, 25.0, 0-58, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 39, 0, 10, 25.0, 0-59, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 15, 0, -32, 25.0, 0-60, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 8, 0, -32, 25.0, 0-61, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -5, 0, -27, 25.0, 0-62, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -37, 0, -18, 25.0, 0-63, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -44, 0, -6, 25.0, 0-64, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 5, 0, -30, 25.0, 0-65, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 48, 0, 42, 25.0, 0-66, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 14, 0, -15, 25.0, 0-67, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -62, 0, 13, 25.0, 0-68, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -15, 0, 1, 25.0, 0-69, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 33, 0, -15, 25.0, 0-70, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -65, 0, 9, 25.0, 0-71, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -41, 0, -20, 25.0, 0-72, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, -59, 0, -38, 25.0, 0-73, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+0, 65, 0, -22, 25.0, 0-74, g_herba, Grass, 0-067-358-000, BORN, , , , , , 1
+10, 37, 0, -32, 25.0, 0-56, g_herba, Grass, 0-067-358-000, DIED, 3-39, g_ovella, Sheep, 0-067-354-119, PREY
+10, 37, 0, -32, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, EAT, 0-56, g_herba, Grass, 0-067-358-000, heMenjatPes=2.5 pes=83.8
+10, -27, 0, 29, 25.0, 0-55, g_herba, Grass, 0-067-358-000, DIED, 3-9, g_ovella, Sheep, 0-067-354-119, PREY
+10, -27, 0, 28, 25.0, 3-9, g_ovella, Sheep, 0-067-354-119, EAT, 0-55, g_herba, Grass, 0-067-358-000, heMenjatPes=2.5 pes=78.5
+10, 17, 0, 65, 25.0, 0-48, g_herba, Grass, 0-067-358-000, DIED, 3-6, g_ovella, Sheep, 0-067-354-119, PREY
+10, 17, 0, 65, 25.0, 3-6, g_ovella, Sheep, 0-067-354-119, EAT, 0-48, g_herba, Grass, 0-067-358-000, heMenjatPes=2.6 pes=84.2
+11, -30, 0, 1, 25.0, 0-57, g_herba, Grass, 0-067-358-000, DIED, 3-23, g_ovella, Sheep, 0-067-354-119, PREY
+11, -30, 0, 1, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, EAT, 0-57, g_herba, Grass, 0-067-358-000, heMenjatPes=2.7 pes=77.1
+11, 14, 0, -15, 25.0, 0-67, g_herba, Grass, 0-067-358-000, DIED, 3-10, g_ovella, Sheep, 0-067-354-119, PREY
+11, 15, 0, -15, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, EAT, 0-67, g_herba, Grass, 0-067-358-000, heMenjatPes=2.7 pes=77.1
+13, -41, 0, -20, 25.0, 0-72, g_herba, Grass, 0-067-358-000, DIED, 3-37, g_ovella, Sheep, 0-067-354-119, PREY
+13, -41, 0, -21, 25.0, 3-37, g_ovella, Sheep, 0-067-354-119, EAT, 0-72, g_herba, Grass, 0-067-358-000, heMenjatPes=2.6 pes=79.6
+14, -65, 0, 9, 25.0, 0-71, g_herba, Grass, 0-067-358-000, DIED, 3-21, g_ovella, Sheep, 0-067-354-119, PREY
+14, -66, 0, 9, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, EAT, 0-71, g_herba, Grass, 0-067-358-000, heMenjatPes=2.7 pes=84.8
+14, -23, 0, 4, 25.0, 0-47, g_herba, Grass, 0-067-358-000, DIED, 3-24, g_ovella, Sheep, 0-067-354-119, PREY
+14, -24, 0, 4, 25.0, 3-24, g_ovella, Sheep, 0-067-354-119, EAT, 0-47, g_herba, Grass, 0-067-358-000, heMenjatPes=2.8 pes=80.9
+16, -59, 0, -38, 25.0, 0-73, g_herba, Grass, 0-067-358-000, DIED, 3-22, g_ovella, Sheep, 0-067-354-119, PREY
+16, -60, 0, -39, 25.0, 3-22, g_ovella, Sheep, 0-067-354-119, EAT, 0-73, g_herba, Grass, 0-067-358-000, heMenjatPes=2.8 pes=77.4
+19, 50, 0, -36, 25.0, 0-54, g_herba, Grass, 0-067-358-000, DIED, 3-39, g_ovella, Sheep, 0-067-354-119, PREY
+19, 49, 0, -36, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, EAT, 0-54, g_herba, Grass, 0-067-358-000, heMenjatPes=5.4 pes=83.8
+21, -44, 0, -6, 25.0, 0-64, g_herba, Grass, 0-067-358-000, DIED, 3-23, g_ovella, Sheep, 0-067-354-119, PREY
+21, -44, 0, -5, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, EAT, 0-64, g_herba, Grass, 0-067-358-000, heMenjatPes=5.7 pes=77.1
+21, 9, 0, -24, 25.0, 0-46, g_herba, Grass, 0-067-358-000, DIED, 3-10, g_ovella, Sheep, 0-067-354-119, PREY
+21, 10, 0, -24, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, EAT, 0-46, g_herba, Grass, 0-067-358-000, heMenjatPes=5.8 pes=77.1
+26, -37, 0, -18, 25.0, 0-63, g_herba, Grass, 0-067-358-000, DIED, 3-8, g_ovella, Sheep, 0-067-354-119, PREY
+26, -38, 0, -17, 25.0, 3-8, g_ovella, Sheep, 0-067-354-119, EAT, 0-63, g_herba, Grass, 0-067-358-000, heMenjatPes=11.0 pes=80.4
+28, -48, 0, -46, 25.0, 0-45, g_herba, Grass, 0-067-358-000, DIED, 3-22, g_ovella, Sheep, 0-067-354-119, PREY
+28, -48, 0, -45, 25.0, 3-22, g_ovella, Sheep, 0-067-354-119, EAT, 0-45, g_herba, Grass, 0-067-358-000, heMenjatPes=5.9 pes=77.4
+28, -60, 0, 3, 25.0, 0-50, g_herba, Grass, 0-067-358-000, DIED, 3-24, g_ovella, Sheep, 0-067-354-119, PREY
+28, -59, 0, 1, 25.0, 3-24, g_ovella, Sheep, 0-067-354-119, EAT, 0-50, g_herba, Grass, 0-067-358-000, heMenjatPes=10.0 pes=80.9
+30, 48, 0, 4, 25.0, 10-11, g_ovella_vermella, Red sheep, 0-067-356-110, DIED, , , , , STARVE
+30, 82, 0, -22, 25.0, 10-12, g_ovella_vermella, Red sheep, 0-067-356-110, DIED, , , , , STARVE
+30, 37, 0, -47, 25.0, 10-13, g_ovella_vermella, Red sheep, 0-067-356-110, DIED, , , , , STARVE
+30, 60, 0, 38, 25.0, 10-15, g_ovella_vermella, Red sheep, 0-067-356-110, DIED, , , , , STARVE
+30, -37, 0, 34, 25.0, 3-25, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+30, -12, 0, -108, 25.0, 3-36, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+30, 24, 0, -59, 25.0, 3-40, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+33, 15, 0, -32, 25.0, 0-60, g_herba, Grass, 0-067-358-000, DIED, 3-10, g_ovella, Sheep, 0-067-354-119, PREY
+33, 16, 0, -32, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, EAT, 0-60, g_herba, Grass, 0-067-358-000, heMenjatPes=9.3 pes=77.1
+35, 52, 0, -17, 25.0, 10-14, g_ovella_vermella, Red sheep, 0-067-356-110, DIED, , , , , STARVE
+39, 53, 0, -14, 25.0, 0-49, g_herba, Grass, 0-067-358-000, DIED, 3-39, g_ovella, Sheep, 0-067-354-119, PREY
+39, 53, 0, -15, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, EAT, 0-49, g_herba, Grass, 0-067-358-000, heMenjatPes=13.2 pes=83.8
+40, -10, 0, 42, 25.0, 7-41, g_llop, Wolf, 0-067-354-140, DIED, , , , , STARVE
+40, -10, 0, 11, 25.0, 7-42, g_llop, Wolf, 0-067-354-140, DIED, , , , , STARVE
+40, -25, 0, -23, 25.0, 7-43, g_llop, Wolf, 0-067-354-140, DIED, , , , , STARVE
+41, -34, 0, 21, 25.0, 3-9, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+42, 14, 0, 65, 25.0, 3-6, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+43, 8, 0, -32, 25.0, 0-61, g_herba, Grass, 0-067-358-000, DIED, 3-10, g_ovella, Sheep, 0-067-354-119, PREY
+43, 8, 0, -32, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, EAT, 0-61, g_herba, Grass, 0-067-358-000, heMenjatPes=13.1 pes=77.1
+52, -61, 0, -16, 25.0, 3-75, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-8, 2
+52, -59, 0, -9, 25.0, 3-8, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+58, -69, 0, -33, 25.0, 3-22, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+77, -52, 0, -1, 25.0, 3-8, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+78, -26, 0, -19, 25.0, 0-52, g_herba, Grass, 0-067-358-000, DIED, 3-23, g_ovella, Sheep, 0-067-354-119, PREY
+78, -26, 0, -18, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, EAT, 0-52, g_herba, Grass, 0-067-358-000, heMenjatPes=24.8 pes=77.2
+90, -5, 0, -5, 25.0, 0-51, g_herba, Grass, 0-067-358-000, DIED, 3-23, g_ovella, Sheep, 0-067-354-119, PREY
+90, -6, 0, -6, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, EAT, 0-51, g_herba, Grass, 0-067-358-000, heMenjatPes=28.6 pes=77.2
+95, 23, 0, -40, 25.0, 3-76, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-38, 2
+95, 25, 0, -46, 25.0, 3-38, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+98, 66, 0, 17, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-39, 2
+98, 63, 0, 12, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+99, 9, 0, -41, 25.0, 3-78, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-10, 2
+99, 11, 0, -45, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+100, -57, 0, 0, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-24, 2
+100, -59, 0, 0, 25.0, 3-24, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+105, -54, 0, -7, 25.0, 3-80, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-21, 2
+105, -55, 0, -3, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+108, 33, 0, -15, 25.0, 0-70, g_herba, Grass, 0-067-358-000, DIED, 3-23, g_ovella, Sheep, 0-067-354-119, PREY
+108, 34, 0, -15, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, EAT, 0-70, g_herba, Grass, 0-067-358-000, heMenjatPes=32.4 pes=73.5
+110, -62, 0, 13, 25.0, 0-68, g_herba, Grass, 0-067-358-000, DIED, 3-79, g_ovella, Sheep, 0-067-354-119, PREY
+110, -62, 0, 14, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, EAT, 0-68, g_herba, Grass, 0-067-358-000, heMenjatPes=4.2 pes=76.3
+117, 50, 0, 5, 25.0, 3-81, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-77, 3
+117, 54, 0, 9, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+119, 5, 0, -30, 25.0, 0-65, g_herba, Grass, 0-067-358-000, DIED, 3-10, g_ovella, Sheep, 0-067-354-119, PREY
+119, 6, 0, -30, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, EAT, 0-65, g_herba, Grass, 0-067-358-000, heMenjatPes=36.2 pes=76.4
+130, 26, 0, -47, 25.0, 3-78, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+132, 51, 0, 41, 25.0, 0-82, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-66, 2
+132, 45, 0, 42, 25.0, 0-83, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-66, 2
+132, 48, 0, 42, 25.0, 0-66, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+139, 21, 0, -3, 25.0, 3-23, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+146, 9, 0, -39, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+160, 50, 0, 16, 25.0, 3-84, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-77, 3
+160, 50, 0, 12, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+162, 67, 0, 16, 25.0, 3-85, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-81, 4
+162, 72, 0, 12, 25.0, 3-81, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+173, -53, 0, 2, 25.0, 3-80, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+177, -48, 0, -4, 25.0, 3-86, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-79, 3
+177, -54, 0, -2, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+185, -38, 0, -8, 25.0, 3-87, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-37, 2
+185, -37, 0, -15, 25.0, 3-37, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+191, 50, 0, 8, 25.0, 3-88, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-85, 5
+191, 55, 0, 11, 25.0, 3-85, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+192, -53, 0, 2, 25.0, 3-89, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-21, 2
+192, -50, 0, -4, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+195, 28, 0, -45, 25.0, 3-78, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+202, 17, 0, -52, 25.0, 3-90, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-76, 3
+202, 19, 0, -47, 25.0, 3-76, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+220, 13, 0, -45, 25.0, 3-38, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+220, -33, 0, -1, 25.0, 3-91, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-75, 3
+220, -29, 0, -3, 25.0, 3-75, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+222, -15, 0, 1, 25.0, 0-69, g_herba, Grass, 0-067-358-000, DIED, 3-75, g_ovella, Sheep, 0-067-354-119, PREY
+222, -15, 0, 1, 25.0, 3-75, g_ovella, Sheep, 0-067-354-119, EAT, 0-69, g_herba, Grass, 0-067-358-000, heMenjatPes=61.9 pes=84.1
+223, -58, 0, -1, 25.0, 3-89, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+225, -42, 0, -8, 25.0, 3-87, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+226, 62, 0, 6, 25.0, 3-92, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-77, 3
+226, 64, 0, 7, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+234, 68, 0, 5, 25.0, 3-39, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+234, -17, 0, 36, 25.0, 3-93, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-7, 2
+234, -11, 0, 34, 25.0, 3-7, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+239, -34, 0, -3, 25.0, 3-94, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-86, 4
+239, -33, 0, -8, 25.0, 3-86, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+240, -6, 0, 33, 25.0, 3-7, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+240, 13, 0, -41, 25.0, 3-38, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+242, -60, 0, -4, 25.0, 3-24, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+244, 11, 0, -44, 25.0, 3-10, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+250, -62, 0, 4, 25.0, 3-95, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-21, 2
+250, -56, 0, 1, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+250, 65, 0, -22, 25.0, 0-74, g_herba, Grass, 0-067-358-000, DIED, 3-92, g_ovella, Sheep, 0-067-354-119, PREY
+250, 65, 0, -24, 25.0, 3-92, g_ovella, Sheep, 0-067-354-119, EAT, 0-74, g_herba, Grass, 0-067-358-000, heMenjatPes=8.3 pes=79.0
+252, 0, 0, 13, 25.0, 3-75, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+254, -9, 0, 38, 25.0, 3-96, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-93, 3
+254, -6, 0, 35, 25.0, 3-93, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+256, -50, 0, 3, 25.0, 3-97, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-79, 3
+256, -52, 0, -3, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+259, -59, 0, 0, 25.0, 3-21, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+262, 64, 0, -23, 25.0, 0-53, g_herba, Grass, 0-067-358-000, DIED, 3-92, g_ovella, Sheep, 0-067-354-119, PREY
+262, 64, 0, -24, 25.0, 3-92, g_ovella, Sheep, 0-067-354-119, EAT, 0-53, g_herba, Grass, 0-067-358-000, heMenjatPes=12.5 pes=84.0
+265, -38, 0, -16, 25.0, 3-37, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+267, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+269, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+272, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+272, -5, 0, -27, 25.0, 0-62, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+272, 27, 0, -55, 25.0, 3-98, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-78, 3
+272, 25, 0, -49, 25.0, 3-78, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+274, 46, 0, 39, 25.0, 0-99, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-82, 3
+274, 51, 0, 43, 25.0, 0-100, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-82, 3
+274, 51, 0, 41, 25.0, 0-82, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+276, 35, 0, -50, 25.0, 3-101, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-76, 3
+276, 28, 0, -48, 25.0, 3-76, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+277, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+277, 48, 0, 42, 25.0, 0-66, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+279, 22, 0, 28, 25.0, 0-102, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-44, 2
+279, 22, 0, 26, 25.0, 0-103, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-44, 2
+279, 24, 0, 29, 25.0, 0-44, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+281, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+287, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+289, -69, 0, -25, 25.0, 0-58, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+291, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+292, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+294, -39, 0, -2, 25.0, 3-104, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-97, 4
+294, -38, 0, -9, 25.0, 3-97, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+295, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+296, 68, 0, -23, 25.0, 3-105, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-88, 6
+296, 68, 0, -21, 25.0, 3-88, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+297, -67, 0, -2, 25.0, 3-106, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-89, 3
+297, -61, 0, 1, 25.0, 3-89, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+297, -57, 0, -9, 25.0, 3-107, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-79, 3
+297, -55, 0, -4, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+297, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+297, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+299, -55, 0, 5, 25.0, 3-108, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-80, 3
+299, -57, 0, 4, 25.0, 3-80, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+301, -49, 0, -16, 25.0, 3-109, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-91, 4
+301, -49, 0, -11, 25.0, 3-91, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+303, 73, 0, -1, 25.0, 3-110, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-77, 3
+303, 72, 0, 1, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=4
+304, 39, 0, 10, 25.0, 0-59, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+304, -18, 0, 31, 25.0, 3-111, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-93, 3
+304, -15, 0, 35, 25.0, 3-93, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+304, -3, 0, 35, 25.0, 3-112, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-96, 4
+304, -3, 0, 29, 25.0, 3-96, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+304, 19, 0, -44, 25.0, 3-113, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-101, 4
+304, 24, 0, -47, 25.0, 3-101, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+304, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+305, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+307, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+308, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+308, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+313, 24, 0, 29, 25.0, 0-44, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+314, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+315, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+316, -58, 0, 0, 25.0, 3-106, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+317, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+320, 62, 0, -2, 25.0, 3-114, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-81, 4
+320, 63, 0, 2, 25.0, 3-81, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+322, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+323, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+324, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+328, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+328, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+330, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+330, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+332, 11, 0, -50, 25.0, 3-115, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-90, 4
+332, 17, 0, -48, 25.0, 3-90, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+333, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+334, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+337, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+338, -56, 0, -4, 25.0, 3-108, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+338, -45, 0, -9, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-87, 3
+338, -41, 0, -7, 25.0, 3-87, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+338, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+340, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+341, 34, 0, -49, 25.0, 3-117, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-76, 3
+341, 28, 0, -49, 25.0, 3-76, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+341, 19, 0, -42, 25.0, 3-78, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+341, -58, 0, 7, 25.0, 3-79, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+342, 67, 0, 3, 25.0, 3-77, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+342, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+342, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+346, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+346, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+346, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+347, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+348, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+349, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+352, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+352, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+353, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+356, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+356, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+356, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+357, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+358, 20, 0, -48, 25.0, 3-76, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+358, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+359, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+361, -59, 0, -7, 25.0, 3-108, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+361, -51, 0, -3, 25.0, 3-80, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+361, 64, 0, 6, 25.0, 3-81, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+361, 65, 0, 3, 25.0, 3-84, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+361, -59, 0, 3, 25.0, 3-107, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+361, 65, 0, 6, 25.0, 3-110, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+362, -41, 0, -4, 25.0, 3-87, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+363, 60, 0, 11, 25.0, 3-114, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+364, -11, 0, 32, 25.0, 3-96, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+364, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+364, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+365, 64, 0, -16, 25.0, 3-105, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+365, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+366, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+366, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+366, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+371, 60, 0, -26, 25.0, 3-88, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+371, 14, 0, -48, 25.0, 3-117, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+371, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+372, -31, 0, -17, 25.0, 3-86, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+372, 74, 0, -11, 25.0, 3-92, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+372, -28, 0, -6, 25.0, 3-94, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+372, 17, 0, -39, 25.0, 3-113, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+374, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+378, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+378, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+379, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+381, -56, 0, -4, 25.0, 3-118, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-116, 4
+381, -58, 0, -2, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+382, -42, 0, -9, 25.0, 3-109, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+382, 14, 0, -48, 25.0, 3-115, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+382, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+382, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+383, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+387, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+390, 66, 0, -6, 25.0, 3-85, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, 28, 0, -53, 25.0, 3-90, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, -29, 0, -7, 25.0, 3-97, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, 9, 0, -48, 25.0, 3-98, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, -62, 0, 7, 25.0, 3-104, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, 4, 0, 38, 25.0, 3-111, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+390, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+392, 32, 0, -36, 25.0, 3-101, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+393, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+393, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+396, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+396, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+398, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+400, 51, 0, 41, 25.0, 0-82, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+402, -57, 0, -3, 25.0, 3-118, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+402, -4, 0, 56, 25.0, 3-119, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-93, 3
+402, -1, 0, 51, 25.0, 3-93, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+403, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+403, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+404, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+407, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+407, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+408, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+409, -55, 0, 6, 25.0, 3-120, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-91, 4
+409, -59, 0, 0, 25.0, 3-91, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+409, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+410, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+410, 51, 0, 39, 25.0, 0-121, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-99, 4
+410, 48, 0, 42, 25.0, 0-122, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-99, 4
+410, 46, 0, 39, 25.0, 0-99, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+413, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+413, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+413, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+414, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+416, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+416, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+417, 55, 0, 45, 25.0, 0-123, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-100, 4
+417, 54, 0, 42, 25.0, 0-124, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-100, 4
+417, 51, 0, 43, 25.0, 0-100, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+419, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+421, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+421, 45, 0, 42, 25.0, 0-83, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+421, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+421, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+421, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+424, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+424, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+427, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+429, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+430, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+434, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+435, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+435, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+436, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+438, 24, 0, 24, 25.0, 0-125, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-102, 3
+438, 25, 0, 28, 25.0, 0-126, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-102, 3
+438, 22, 0, 28, 25.0, 0-102, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+438, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+438, -50, 0, -8, 25.0, 3-127, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-116, 4
+438, -55, 0, -5, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+438, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+441, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+442, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+445, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+449, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+449, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+451, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+452, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+452, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+453, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+457, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+459, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+460, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+461, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+461, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+462, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+463, 0, 0, 46, 25.0, 3-128, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-119, 4
+463, 1, 0, 50, 25.0, 3-119, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+464, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+467, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+468, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+472, -58, 0, 0, 25.0, 3-89, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+472, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+473, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+473, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+476, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+478, -60, 0, 6, 25.0, 3-91, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+482, -44, 0, -1, 25.0, 3-129, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-95, 3
+482, -41, 0, -6, 25.0, 3-95, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+482, -71, 0, -1, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-116, 4
+482, -68, 0, -4, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+483, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+483, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+485, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+487, -39, 0, -13, 25.0, 3-131, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-106, 4
+487, -40, 0, -8, 25.0, 3-106, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+490, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+491, -2, 0, 52, 25.0, 3-93, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+491, 23, 0, 24, 25.0, 0-132, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-103, 3
+491, 20, 0, 24, 25.0, 0-133, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-103, 3
+491, 22, 0, 26, 25.0, 0-103, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+491, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+494, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+496, -59, 0, -11, 25.0, 3-134, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-127, 5
+496, -59, 0, -5, 25.0, 3-127, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+500, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+500, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+500, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+503, -41, 0, -6, 25.0, 3-95, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+505, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+505, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+506, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+509, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+509, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+510, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+512, -9, 0, 60, 25.0, 3-112, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+513, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+515, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+515, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+516, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+519, -43, 0, -7, 25.0, 3-135, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-131, 5
+519, -39, 0, -9, 25.0, 3-131, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+521, 0, 0, 55, 25.0, 3-136, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-128, 5
+521, -4, 0, 60, 25.0, 3-128, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+521, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+523, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+526, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+526, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+529, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+530, -69, 0, -4, 25.0, 3-137, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-120, 5
+530, -71, 0, -11, 25.0, 3-120, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+530, 46, 0, 39, 25.0, 0-99, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+531, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+533, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+533, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+535, -71, 0, 1, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-106, 4
+535, -65, 0, 0, 25.0, 3-106, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+535, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+535, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+538, -51, 0, -9, 25.0, 3-139, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-130, 5
+538, -55, 0, -6, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+538, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+538, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+540, 51, 0, 43, 25.0, 0-100, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+540, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+544, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+545, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+550, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+551, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+552, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+553, -55, 0, -4, 25.0, 3-137, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+553, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+553, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+554, -74, 0, -12, 25.0, 3-140, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-129, 4
+554, -69, 0, -10, 25.0, 3-129, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+554, -67, 0, -8, 25.0, 3-141, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-138, 5
+554, -70, 0, -12, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+558, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+562, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+565, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+567, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+569, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+569, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+570, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+573, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+573, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+573, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+573, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+576, -63, 0, -12, 25.0, 3-142, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-116, 4
+576, -59, 0, -11, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=4
+576, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+578, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+578, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+579, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+583, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+584, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+584, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+586, -66, 0, -7, 25.0, 3-143, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-120, 5
+586, -71, 0, -11, 25.0, 3-120, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+586, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+586, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+587, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+588, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+588, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+589, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+590, -62, 0, -4, 25.0, 3-106, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+591, -39, 0, -16, 25.0, 3-144, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-135, 6
+591, -44, 0, -13, 25.0, 3-135, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+593, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+593, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+594, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+595, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+596, -62, 0, 6, 25.0, 3-145, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-118, 5
+596, -60, 0, 2, 25.0, 3-118, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+596, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+599, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+599, 22, 0, 28, 25.0, 0-102, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+599, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+599, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+602, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+604, -61, 0, -8, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+604, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+607, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+607, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+607, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+609, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+609, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+615, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+616, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+616, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+617, 22, 0, 26, 25.0, 0-103, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+617, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+618, -63, 0, 0, 25.0, 3-146, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-139, 6
+618, -61, 0, 1, 25.0, 3-139, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+619, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+620, -38, 0, -1, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-131, 5
+620, -43, 0, -2, 25.0, 3-131, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+621, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+621, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+622, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+625, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+626, -63, 0, -4, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+626, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+626, 48, 0, 39, 25.0, 0-148, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-122, 5
+626, 51, 0, 46, 25.0, 0-149, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-122, 5
+626, 48, 0, 42, 25.0, 0-122, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+627, -72, 0, -16, 25.0, 3-150, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-120, 5
+627, -72, 0, -10, 25.0, 3-120, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+627, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+627, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+629, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+630, -63, 0, -15, 25.0, 3-151, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-137, 6
+630, -58, 0, -19, 25.0, 3-137, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+632, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+632, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+633, -79, 0, -6, 25.0, 3-152, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-129, 4
+633, -73, 0, -4, 25.0, 3-129, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+636, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+638, -56, 0, 4, 25.0, 3-153, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-127, 5
+638, -59, 0, 1, 25.0, 3-127, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+638, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+640, -34, 0, -12, 25.0, 3-154, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-147, 6
+640, -36, 0, -9, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+641, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+641, -58, 0, 0, 25.0, 3-118, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+644, -60, 0, -9, 25.0, 3-143, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+644, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+644, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+645, -59, 0, -9, 25.0, 3-116, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+646, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+649, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+650, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+651, -5, 0, 54, 25.0, 3-155, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-119, 4
+651, -1, 0, 51, 25.0, 3-119, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+651, 2, 0, 46, 25.0, 3-156, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-136, 6
+651, 5, 0, 47, 25.0, 3-136, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+651, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+652, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+654, -54, 0, 0, 25.0, 3-140, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+654, -52, 0, -1, 25.0, 3-142, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+654, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+657, -55, 0, -2, 25.0, 3-153, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+659, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+659, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+660, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+661, 51, 0, 39, 25.0, 0-121, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+663, 0, 0, 51, 25.0, 3-119, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+664, 5, 0, 49, 25.0, 3-157, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-128, 5
+664, 0, 0, 50, 25.0, 3-128, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+664, -52, 0, -3, 25.0, 3-134, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+665, -72, 0, -14, 25.0, 3-120, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+665, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+665, 43, 0, 38, 25.0, 0-158, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-148, 6
+665, 49, 0, 36, 25.0, 0-159, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-148, 6
+665, 48, 0, 39, 25.0, 0-148, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+669, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+669, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+671, -62, 0, 3, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+671, -38, 0, -14, 25.0, 3-160, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-135, 6
+671, -38, 0, -9, 25.0, 3-135, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+674, 55, 0, 45, 25.0, 0-123, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+675, -58, 0, 0, 25.0, 3-118, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+677, 54, 0, 42, 25.0, 0-124, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+677, -69, 0, -5, 25.0, 3-161, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-129, 4
+677, -73, 0, -8, 25.0, 3-129, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+678, 48, 0, 42, 25.0, 0-122, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+680, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+680, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+683, 25, 0, 31, 25.0, 0-162, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-126, 4
+683, 28, 0, 28, 25.0, 0-163, g_herba, Grass, 0-067-358-000, BORN, , , , , 0-126, 4
+683, 25, 0, 28, 25.0, 0-126, g_herba, Grass, 0-067-358-000, TRY BIRTH, , , , , tryOk=2, offSpring=2.0  births=2
+683, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+683, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+685, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+688, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+694, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+695, -37, 0, -9, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+696, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+698, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+699, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+699, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+699, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+702, -61, 0, -3, 25.0, 3-151, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+705, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+705, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+705, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+706, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+710, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+710, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+710, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+712, -54, 0, -3, 25.0, 3-139, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+713, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+713, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+713, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+714, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+715, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+716, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+716, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+718, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+719, -2, 0, 50, 25.0, 3-128, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+719, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+720, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+722, -43, 0, -5, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+723, -61, 0, -8, 25.0, 3-129, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+724, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+725, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+727, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+729, -49, 0, -9, 25.0, 3-137, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+730, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+730, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+730, -39, 0, -9, 25.0, 3-154, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+730, -33, 0, -12, 25.0, 3-131, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+731, -59, 0, 0, 25.0, 3-127, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+731, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+733, -62, 0, -6, 25.0, 3-140, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+733, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+733, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+735, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+735, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+736, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+737, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+738, -43, 0, -14, 25.0, 3-144, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+738, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+739, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+739, -43, 0, -5, 25.0, 3-143, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+740, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+741, -53, 0, -2, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+741, -38, 0, -9, 25.0, 3-160, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+745, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+745, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+746, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+747, 24, 0, 24, 25.0, 0-125, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+748, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+748, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+751, -57, 0, 0, 25.0, 3-134, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+751, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+756, 25, 0, 28, 25.0, 0-126, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+756, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+756, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+756, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+760, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+762, 8, 0, 66, 25.0, 3-164, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-136, 6
+762, 10, 0, 60, 25.0, 3-136, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+762, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+765, 10, 0, 60, 25.0, 3-136, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+765, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+768, -65, 0, -9, 25.0, 3-140, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+768, 16, 0, 21, 25.0, 3-156, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+768, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+770, -79, 0, 12, 25.0, 3-139, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+771, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+772, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+773, -57, 0, -18, 25.0, 3-142, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+774, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+774, -62, 0, 6, 25.0, 3-165, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-161, 5
+774, -58, 0, 0, 25.0, 3-161, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+775, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+775, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+778, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+783, -36, 0, -6, 25.0, 3-151, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+783, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+785, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+785, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+785, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+788, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+790, -64, 0, -11, 25.0, 3-130, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+790, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+791, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+791, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+792, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+793, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+793, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+795, -38, 0, -2, 25.0, 3-131, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+795, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+795, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+795, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+796, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+796, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+798, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+798, 3, 0, 57, 25.0, 3-166, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-157, 6
+798, 0, 0, 52, 25.0, 3-157, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+799, -53, 0, -1, 25.0, 3-137, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+800, -58, 0, 0, 25.0, 3-135, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+801, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+801, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+803, -68, 0, -4, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-153, 6
+803, -69, 0, -9, 25.0, 3-153, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+803, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+803, 20, 0, 24, 25.0, 0-133, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+804, -5, 0, 48, 25.0, 3-168, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-164, 7
+804, 0, 0, 51, 25.0, 3-164, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+804, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+804, -35, 0, -8, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+812, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+812, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+814, -62, 0, -3, 25.0, 3-134, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+815, -36, 0, -1, 25.0, 3-169, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-144, 7
+815, -35, 0, -5, 25.0, 3-144, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+815, -44, 0, -11, 25.0, 3-152, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+815, -62, 0, -3, 25.0, 3-134, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+816, -45, 0, -8, 25.0, 3-138, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+816, -36, 0, -11, 25.0, 3-170, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-147, 6
+816, -37, 0, -4, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+816, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+817, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+817, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+818, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+818, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+820, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+820, -12, 0, 30, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-168, 8
+820, -8, 0, 30, 25.0, 3-168, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+821, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+822, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+824, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+824, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+825, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+826, -34, 0, -11, 25.0, 3-154, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+827, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+828, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+830, -38, 0, -9, 25.0, 3-143, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+832, -58, 0, -6, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+834, -42, 0, -9, 25.0, 3-160, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+834, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+836, -5, 0, 30, 25.0, 3-172, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-171, 9
+836, -7, 0, 36, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+836, -63, 0, 0, 25.0, 3-161, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+841, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+841, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+841, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+842, -57, 0, 0, 25.0, 3-141, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+842, -60, 0, -9, 25.0, 3-135, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+845, -4, 0, 56, 25.0, 3-173, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-155, 5
+845, -1, 0, 52, 25.0, 3-155, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+846, 7, 0, 54, 25.0, 3-174, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-157, 6
+846, 2, 0, 53, 25.0, 3-157, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+846, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+846, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+848, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+848, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+849, 5, 0, 47, 25.0, 3-175, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-166, 7
+849, 0, 0, 46, 25.0, 3-166, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+849, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+850, -39, 0, -8, 25.0, 3-152, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+851, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+854, -59, 0, 0, 25.0, 3-145, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+856, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+857, 23, 0, 24, 25.0, 0-132, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+859, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+859, -12, 0, 65, 25.0, 3-176, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-173, 6
+859, -7, 0, 60, 25.0, 3-173, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+859, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+861, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+862, -58, 0, 0, 25.0, 3-145, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+862, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+862, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+864, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+864, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+865, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+865, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+867, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+867, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+871, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+874, -51, 0, -2, 25.0, 3-150, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+875, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+875, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+877, -1, 0, 28, 25.0, 3-177, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-168, 8
+877, -5, 0, 32, 25.0, 3-168, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+878, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+881, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+885, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+886, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+887, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+887, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+887, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+889, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+889, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+890, 2, 0, 52, 25.0, 3-164, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+891, -38, 0, -4, 25.0, 3-144, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+892, 0, 0, 51, 25.0, 3-155, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+894, -46, 0, -16, 25.0, 3-178, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-160, 7
+894, -39, 0, -17, 25.0, 3-160, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+894, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+896, -60, 0, 7, 25.0, 3-179, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-167, 7
+896, -58, 0, 4, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+896, -4, 0, 58, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-176, 7
+896, -8, 0, 60, 25.0, 3-176, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+896, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+898, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+899, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+901, -61, 0, -13, 25.0, 3-181, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-153, 6
+901, -61, 0, -10, 25.0, 3-153, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+901, -2, 0, 63, 25.0, 3-182, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-173, 6
+901, -8, 0, 64, 25.0, 3-173, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+902, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+903, 2, 0, 46, 25.0, 3-157, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+903, -50, 0, -7, 25.0, 3-183, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-169, 8
+903, -45, 0, -7, 25.0, 3-169, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+903, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+905, 48, 0, 39, 25.0, 0-148, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+909, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+911, -12, 0, 31, 25.0, 3-184, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-177, 9
+911, -9, 0, 37, 25.0, 3-177, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+911, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+912, 0, 0, 55, 25.0, 3-157, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+912, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+912, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+912, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+912, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+912, 51, 0, 46, 25.0, 0-149, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+915, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+915, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+918, -60, 0, -9, 25.0, 3-146, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+918, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+918, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+918, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+921, -37, 0, -8, 25.0, 3-170, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+922, -40, 0, -8, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+924, -50, 0, -8, 25.0, 3-185, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-161, 5
+924, -53, 0, -3, 25.0, 3-161, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+925, 0, 0, 56, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+925, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+926, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+928, 49, 0, 36, 25.0, 0-159, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+930, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+931, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+931, -60, 0, 0, 25.0, 3-153, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+932, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+933, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+936, -58, 0, 1, 25.0, 3-179, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+937, -32, 0, -9, 25.0, 3-147, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+937, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+939, -54, 0, 0, 25.0, 3-161, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+939, 43, 0, 38, 25.0, 0-158, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+941, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+941, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+943, -4, 0, 38, 25.0, 3-186, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-184, 10
+943, -9, 0, 33, 25.0, 3-184, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+943, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+944, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+945, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+947, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+947, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+949, -33, 0, -8, 25.0, 3-187, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-178, 8
+949, -35, 0, -8, 25.0, 3-178, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+949, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+949, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+951, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+952, -2, 0, 57, 25.0, 3-188, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-172, 10
+952, 4, 0, 57, 25.0, 3-172, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+952, -3, 0, 46, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+954, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+955, -52, 0, 2, 25.0, 3-189, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-167, 7
+955, -52, 0, -5, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+955, 3, 0, 44, 25.0, 3-190, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-174, 7
+955, -3, 0, 42, 25.0, 3-174, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+956, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+957, -38, 0, -8, 25.0, 3-169, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+959, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+960, -5, 0, 52, 25.0, 3-164, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+960, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+960, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+961, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+962, -34, 0, -2, 25.0, 3-154, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+964, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+965, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+967, -2, 0, 49, 25.0, 3-166, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+967, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+967, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+968, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+969, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+971, -2, 0, 54, 25.0, 3-176, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+971, -32, 0, -5, 25.0, 3-160, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+972, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+972, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+974, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+975, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+979, 2, 0, 50, 25.0, 3-175, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+980, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+981, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+984, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+984, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+985, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+986, -1, 0, 48, 25.0, 3-173, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+987, -59, 0, -11, 25.0, 3-191, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-189, 8
+987, -55, 0, -7, 25.0, 3-189, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+988, -32, 0, -7, 25.0, 3-154, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+990, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+992, 28, 0, 28, 25.0, 0-163, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+994, -58, 0, -2, 25.0, 3-181, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+994, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+995, 0, 0, 52, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+995, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+996, -5, 0, 29, 25.0, 3-192, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-186, 11
+996, -8, 0, 34, 25.0, 3-186, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+996, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+998, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1000, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1001, -63, 0, 0, 25.0, 3-193, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-167, 7
+1001, -57, 0, 2, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+1003, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1005, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1006, 0, 0, 51, 25.0, 3-176, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1006, -66, 0, -10, 25.0, 3-194, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-191, 9
+1006, -60, 0, -9, 25.0, 3-191, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1006, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1007, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1007, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1008, 25, 0, 31, 25.0, 0-162, g_herba, Grass, 0-067-358-000, DIED, , , , , OLD
+1011, -2, 0, 52, 25.0, 3-166, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1014, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1015, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1018, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1019, -8, 0, 38, 25.0, 3-195, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-172, 10
+1019, -6, 0, 42, 25.0, 3-172, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1020, -57, 0, -5, 25.0, 3-165, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1022, -58, 0, -9, 25.0, 3-196, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-178, 8
+1022, -59, 0, -5, 25.0, 3-178, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1022, 5, 0, 53, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1022, -15, 0, 41, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-192, 12
+1022, -9, 0, 38, 25.0, 3-192, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1027, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1028, 1, 0, 56, 25.0, 3-164, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1030, 0, 0, 50, 25.0, 3-182, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1030, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1031, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1033, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1033, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1035, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1035, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1036, 4, 0, 35, 25.0, 3-198, g_ovella, Sheep, 0-077-354-119, BORN, , , , , 3-188, 11
+1036, -1, 0, 35, 25.0, 3-188, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1039, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1039, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1040, 0, 0, 51, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1040, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1040, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1042, 0, 0, 51, 25.0, 3-174, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1042, -9, 0, 61, 25.0, 3-199, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-177, 9
+1042, -13, 0, 65, 25.0, 3-177, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1043, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1045, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1046, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1046, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1048, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1048, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1048, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1048, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1050, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1050, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1051, -45, 0, -8, 25.0, 3-200, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-170, 7
+1051, -39, 0, -9, 25.0, 3-170, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1051, -58, 0, 0, 25.0, 3-185, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1052, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1053, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1054, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1054, -7, 0, 54, 25.0, 3-166, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1056, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1058, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1059, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1059, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1060, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1064, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1064, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1064, 0, 0, 53, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1065, -3, 0, 46, 25.0, 3-168, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1066, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1067, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1068, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1068, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1071, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1072, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1074, -1, 0, 53, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1074, 0, 0, 55, 25.0, 3-182, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1074, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1074, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1076, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1076, -61, 0, -8, 25.0, 3-201, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-189, 8
+1076, -59, 0, -6, 25.0, 3-189, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1077, -59, 0, -1, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=3
+1077, 10, 0, 48, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-195, 11
+1077, 10, 0, 53, 25.0, 3-195, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1077, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1079, 7, 0, 53, 25.0, 3-174, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1079, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1080, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1081, 54, 0, -24, 25.0, 1-16, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1083, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1085, 1, 0, 52, 25.0, 3-175, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1085, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1085, -3, 0, 54, 25.0, 3-173, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1088, -58, 0, 0, 25.0, 11-28, g_arbre_blau, Blue tree, 0-067-366-040, DIED, , , , , OLD
+1088, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1088, -4, 0, 49, 25.0, 3-174, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1090, -62, 0, -4, 25.0, 3-179, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1090, -13, 0, 60, 25.0, 3-203, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-199, 10
+1090, -11, 0, 65, 25.0, 3-199, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1091, -8, 0, 61, 25.0, 1-4, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1091, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1091, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1092, 1, 0, 49, 25.0, 3-171, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1093, -54, 0, -4, 25.0, 3-167, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1093, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1093, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1094, -2, 0, 33, 25.0, 3-204, g_ovella, Sheep, 0-077-354-119, BORN, , , , , 3-198, 12
+1094, -8, 0, 32, 25.0, 3-198, g_ovella, Sheep, 0-077-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1094, -45, 0, -11, 25.0, 3-205, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-169, 8
+1094, -39, 0, -9, 25.0, 3-169, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1095, -9, 0, -62, 25.0, 1-34, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1096, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1096, 7, 0, -39, 25.0, 1-35, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1098, -3, 0, 42, 25.0, 1-2, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1100, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1100, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1103, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1104, -4, 0, 52, 25.0, 3-184, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1104, 24, 0, -47, 25.0, 1-33, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1105, -39, 0, -9, 25.0, 3-183, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1105, -1, 0, 51, 25.0, 3-190, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1106, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1106, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1106, -37, 0, -1, 25.0, 3-206, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-187, 9
+1106, -41, 0, -6, 25.0, 3-187, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1107, 0, 0, 51, 25.0, 3-172, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1107, 3, 0, 57, 25.0, 3-188, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1107, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1108, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1108, 67, 0, -20, 25.0, 1-20, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1110, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1111, -50, 0, 2, 25.0, 3-193, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1111, -39, 0, -9, 25.0, 3-205, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1113, 0, 0, 51, 25.0, 3-175, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1115, 2, 0, 55, 25.0, 3-176, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1118, -67, 0, -12, 25.0, 3-207, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-191, 9
+1118, -62, 0, -11, 25.0, 3-191, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1119, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1120, -17, 0, 61, 25.0, 3-203, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1122, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1122, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1123, 5, 0, 50, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1123, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1123, -54, 0, -4, 25.0, 3-206, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1124, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1126, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1127, 0, 0, 50, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1130, -4, 0, 48, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1130, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1132, -38, 0, -9, 25.0, 3-169, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1132, 4, 0, 55, 25.0, 3-182, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1132, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1134, -9, 0, 33, 25.0, 3-204, g_ovella, Sheep, 0-077-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1134, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1136, -69, 0, -4, 25.0, 3-208, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-207, 10
+1136, -68, 0, -9, 25.0, 3-207, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1136, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1136, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1137, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1139, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1140, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1141, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1144, -60, 0, -5, 25.0, 3-194, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1144, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1145, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1146, 3, 0, 53, 25.0, 3-177, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1147, -34, 0, -7, 25.0, 3-209, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-187, 9
+1147, -37, 0, -12, 25.0, 3-187, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1147, 67, 0, 6, 25.0, 1-17, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1148, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1152, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1153, -38, 0, -8, 25.0, 3-170, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1155, -2, 0, 47, 25.0, 3-184, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1162, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1163, -2, 0, 55, 25.0, 3-195, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1163, -52, 0, -9, 25.0, 3-178, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+1163, 6, 0, 55, 25.0, 3-190, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1163, -53, 0, -4, 25.0, 3-206, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1166, -52, 0, -2, 25.0, 3-200, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1168, -1, 0, 50, 25.0, 3-180, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1168, -43, 0, -8, 25.0, 3-181, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1169, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1169, -55, 0, -6, 25.0, 3-179, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1169, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1170, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1173, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1174, 1, 0, 52, 25.0, 3-186, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1174, -6, 0, 46, 25.0, 3-210, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-197, 13
+1174, -6, 0, 52, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1174, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1174, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1174, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1175, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1177, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1177, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1177, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1179, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1180, 4, 0, 57, 25.0, 3-211, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-202, 12
+1180, -3, 0, 55, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1180, -14, 0, -50, 25.0, 1-32, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1181, -60, 0, -2, 25.0, 3-193, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1181, -61, 0, -9, 25.0, 3-189, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=2
+1182, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1183, 55, 0, 11, 25.0, 1-19, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1185, -44, 0, -9, 25.0, 3-212, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-205, 9
+1185, -39, 0, -9, 25.0, 3-205, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1188, -10, 0, 36, 25.0, 3-204, g_ovella, Sheep, 0-077-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1191, -53, 0, -4, 25.0, 11-30, g_arbre_blau, Blue tree, 0-067-366-040, DIED, , , , , OLD
+1198, -54, 0, -5, 25.0, 3-185, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1203, -6, 0, 53, 25.0, 3-190, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1204, -63, 0, -9, 25.0, 3-179, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1205, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1206, -62, 0, -10, 25.0, 3-206, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1208, -75, 0, -15, 25.0, 3-213, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-208, 11
+1208, -72, 0, -12, 25.0, 3-208, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1210, -60, 0, -9, 25.0, 3-196, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1211, -34, 0, 0, 25.0, 3-214, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-201, 9
+1211, -34, 0, -5, 25.0, 3-201, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1213, 8, 0, 59, 25.0, 3-215, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-211, 13
+1213, 2, 0, 58, 25.0, 3-211, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1213, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1214, -35, 0, -8, 25.0, 3-183, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1216, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1218, -2, 0, 51, 25.0, 3-188, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1218, -71, 0, -10, 25.0, 3-178, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1218, 11, 0, -45, 25.0, 1-31, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1218, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1218, -37, 0, -7, 25.0, 3-207, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1225, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1228, -8, 0, 36, 25.0, 1-5, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1232, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1233, 3, 0, 60, 25.0, 3-216, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-195, 11
+1233, 0, 0, 54, 25.0, 3-195, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1233, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1237, 6, 0, 50, 25.0, 3-217, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-202, 12
+1237, 5, 0, 48, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=2
+1240, -60, 0, -9, 25.0, 11-26, g_arbre_blau, Blue tree, 0-067-366-040, DIED, , , , , OLD
+1243, -22, 0, 27, 25.0, 3-192, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1245, -39, 0, -9, 25.0, 11-27, g_arbre_blau, Blue tree, 0-067-366-040, DIED, , , , , OLD
+1248, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1251, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1254, -14, 0, 29, 25.0, 3-218, g_ovella, Sheep, 0-077-354-119, BORN, , , , , 3-204, 13
+1254, -9, 0, 34, 25.0, 3-204, g_ovella, Sheep, 0-077-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1255, -68, 0, -15, 25.0, 3-194, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1257, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1258, -40, 0, -14, 25.0, 3-219, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-209, 10
+1258, -46, 0, -11, 25.0, 3-209, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1261, -42, 0, -11, 25.0, 3-206, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1261, -72, 0, -12, 25.0, 3-189, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1262, -71, 0, -11, 25.0, 3-191, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1265, 1, 0, 56, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1265, -71, 0, -11, 25.0, 3-212, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1265, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1265, -21, 0, 31, 25.0, 3-220, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-210, 14
+1265, -15, 0, 31, 25.0, 3-210, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1266, -70, 0, -10, 25.0, 3-213, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1268, -72, 0, -12, 25.0, 3-207, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1270, 0, 0, 51, 25.0, 1-1, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1271, 1, 0, 49, 25.0, 3-197, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1274, -71, 0, -9, 25.0, 3-208, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1277, -34, 0, 1, 25.0, 3-205, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1277, -72, 0, -11, 25.0, 3-193, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1278, -41, 0, -21, 25.0, 3-201, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1279, -40, 0, 3, 25.0, 3-196, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1282, -72, 0, -12, 25.0, 3-187, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1282, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1283, 5, 0, 70, 25.0, 3-221, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-202, 12
+1283, 0, 0, 67, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=3
+1285, -9, 0, 34, 25.0, 3-220, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1285, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1291, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, TRY BIRTH, , , , , tryOk=0, offSpring=0.0  births=0
+1292, -9, 0, 33, 25.0, 3-195, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1294, -6, 0, 35, 25.0, 3-214, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1294, -71, 0, -11, 25.0, 3-193, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1298, -9, 0, 33, 25.0, 1-3, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1298, -73, 0, -10, 25.0, 3-200, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1299, -8, 0, 52, 25.0, 3-211, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1299, 5, 0, 48, 25.0, 3-216, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1299, -5, 0, 29, 25.0, 3-199, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1302, -74, 0, -16, 25.0, 3-209, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=1
+1302, -14, 0, 65, 25.0, 3-217, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1305, 58, 0, -3, 25.0, 1-18, g_arbre, Tree, 0-067-366-000, DIED, , , , , OLD
+1306, -71, 0, -11, 25.0, 3-212, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=0, offSpring=1.0  births=0
+1309, -71, 0, -11, 25.0, 11-29, g_arbre_blau, Blue tree, 0-067-366-040, DIED, , , , , OLD
+1313, 26, 0, 62, 25.0, 3-221, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1313, 26, 0, 27, 25.0, 3-198, g_ovella, Sheep, 0-077-354-119, DIED, , , , , OLD
+1326, -60, 0, -29, 25.0, 3-222, g_ovella, Sheep, 0-067-354-119, BORN, , , , , 3-213, 12
+1326, -60, 0, -23, 25.0, 3-213, g_ovella, Sheep, 0-067-354-119, TRY BIRTH, , , , , tryOk=1, offSpring=1.0  births=1
+1327, 2, 0, 36, 25.0, 3-202, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1329, -5, 0, 52, 25.0, 3-210, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1329, -13, 0, 37, 25.0, 3-199, g_ovella, Sheep, 0-067-354-119, DIED, , , , , OLD
+1331, -23, 0, 41, 25.0, 3-220, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1331, -3, 0, 23, 25.0, 3-204, g_ovella, Sheep, 0-077-354-119, DIED, , , , , STARVE
+1331, -17, 0, 25, 25.0, 3-215, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1332, -27, 0, 17, 25.0, 3-218, g_ovella, Sheep, 0-077-354-119, DIED, , , , , STARVE
+1343, -56, 0, -23, 25.0, 3-208, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1343, -75, 0, -23, 25.0, 3-212, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1343, -65, 0, -19, 25.0, 3-213, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1344, -59, 0, -26, 25.0, 3-200, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1344, -64, 0, 5, 25.0, 3-207, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1344, -67, 0, 9, 25.0, 3-209, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1344, -114, 0, -25, 25.0, 3-219, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE
+1356, -61, 0, -20, 25.0, 3-222, g_ovella, Sheep, 0-067-354-119, DIED, , , , , STARVE

@@ -1,0 +1,343 @@
+Time, x, y, z, temperature, idS, genusS, nameS, genomeS, action, idO, genusO, nameO, genomeO
+0, -12, 0, -43, 25.0, 4-1, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -51, 0, 59, 25.0, 4-2, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, 74, 0, -21, 25.0, 4-3, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, 27, 0, 18, 25.0, 4-4, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 15, 0, -128, 25.0, 4-5, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 43, 0, -57, 25.0, 4-6, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 46, 0, 4, 25.0, 4-7, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -52, 0, 45, 25.0, 4-8, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -16, 0, 46, 25.0, 4-9, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -45, 0, -74, 25.0, 4-10, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 20, 0, 30, 25.0, 4-11, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -84, 0, -51, 25.0, 4-12, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -47, 0, 18, 25.0, 4-13, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -44, 0, -17, 25.0, 4-14, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -5, 0, 42, 25.0, 4-15, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -4, 0, -39, 25.0, 4-16, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 46, 0, -55, 25.0, 4-17, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, 27, 0, -70, 25.0, 4-18, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, 29, 0, -12, 25.0, 4-19, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 2, 0, -88, 25.0, 4-20, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 38, 0, 32, 25.0, 4-21, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -46, 0, 37, 25.0, 4-22, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 1, 0, -110, 25.0, 4-23, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -82, 0, -47, 25.0, 4-24, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -78, 0, -101, 25.0, 4-25, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -96, 0, -42, 25.0, 4-26, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -75, 0, 49, 25.0, 4-27, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -66, 0, 29, 25.0, 4-28, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 41, 0, 0, 25.0, 4-29, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -33, 0, -48, 25.0, 4-30, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -75, 0, 18, 25.0, 4-31, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -35, 0, -76, 25.0, 4-32, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -15, 0, 54, 25.0, 4-33, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -39, 0, 4, 25.0, 4-34, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -1, 0, -92, 25.0, 4-35, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -67, 0, -122, 25.0, 4-36, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -39, 0, -111, 25.0, 4-37, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -63, 0, 0, 25.0, 4-38, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -25, 0, -118, 25.0, 4-39, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -80, 0, -49, 25.0, 4-40, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -55, 0, -22, 25.0, 4-41, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, 20, 0, 1, 25.0, 4-42, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -86, 0, -22, 25.0, 4-43, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, 23, 0, -103, 25.0, 4-44, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -70, 0, -10, 25.0, 4-45, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , , 1
+0, -40, 0, -54, 25.0, 4-46, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -9, 0, 2, 25.0, 4-47, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -41, 0, -6, 25.0, 4-48, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -102, 0, -74, 25.0, 4-49, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -59, 0, -120, 25.0, 4-50, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , , 1
+0, -14, 0, -37, 25.0, 5-51, g_guineu, Fox, 0-067-352-210, BORN, , , , , , 1
+0, -25, 0, -36, 25.0, 5-52, g_guineu, Fox, 0-067-352-210, BORN, , , , , , 1
+0, -25, 0, -44, 25.0, 5-53, g_guineu, Fox, 0-067-352-110, BORN, , , , , , 1
+0, -32, 0, -38, 25.0, 5-54, g_guineu, Fox, 0-067-352-110, BORN, , , , , , 1
+0, -30, 0, -39, 25.0, 5-55, g_guineu, Fox, 0-067-352-210, BORN, , , , , , 1
+0, -19, 0, -31, 25.0, 5-56, g_guineu, Fox, 0-067-352-210, BORN, , , , , , 1
+0, -22, 0, -31, 25.0, 6-57, g_guineu_vermella, Red fox, 0-067-352-310, BORN, , , , , , 1
+0, -29, 0, -29, 25.0, 6-58, g_guineu_vermella, Red fox, 0-067-352-310, BORN, , , , , , 1
+0, -28, 0, -29, 25.0, 6-59, g_guineu_vermella, Red fox, 0-067-352-210, BORN, , , , , , 1
+0, -21, 0, -34, 25.0, 6-60, g_guineu_vermella, Red fox, 0-067-352-210, BORN, , , , , , 1
+0, -27, 0, -35, 25.0, 6-61, g_guineu_vermella, Red fox, 0-067-352-210, BORN, , , , , , 1
+0, -16, 0, -42, 25.0, 6-62, g_guineu_vermella, Red fox, 0-067-352-310, BORN, , , , , , 1
+40, 41, 0, -34, 25.0, 4-63, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-19, 2
+40, 47, 0, -20, 25.0, 4-19, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+40, -25, 0, -21, 25.0, 5-51, g_guineu, Fox, 0-067-352-210, DIED, , , , , STARVE
+40, -8, 0, 2, 25.0, 5-52, g_guineu, Fox, 0-067-352-210, DIED, , , , , STARVE
+40, -28, 0, -61, 25.0, 5-53, g_guineu, Fox, 0-067-352-110, DIED, , , , , STARVE
+40, -45, 0, -31, 25.0, 5-54, g_guineu, Fox, 0-067-352-110, DIED, , , , , STARVE
+40, -21, 0, -20, 25.0, 5-55, g_guineu, Fox, 0-067-352-210, DIED, , , , , STARVE
+40, -24, 0, -46, 25.0, 5-56, g_guineu, Fox, 0-067-352-210, DIED, , , , , STARVE
+40, -30, 0, -52, 25.0, 6-57, g_guineu_vermella, Red fox, 0-067-352-310, DIED, , , , , STARVE
+40, -3, 0, 0, 25.0, 6-58, g_guineu_vermella, Red fox, 0-067-352-310, DIED, , , , , STARVE
+40, -11, 0, -42, 25.0, 6-59, g_guineu_vermella, Red fox, 0-067-352-210, DIED, , , , , STARVE
+40, -19, 0, -55, 25.0, 6-60, g_guineu_vermella, Red fox, 0-067-352-210, DIED, , , , , STARVE
+40, -29, 0, -14, 25.0, 6-61, g_guineu_vermella, Red fox, 0-067-352-210, DIED, , , , , STARVE
+40, -38, 0, -31, 25.0, 6-62, g_guineu_vermella, Red fox, 0-067-352-310, DIED, , , , , STARVE
+42, -73, 0, -24, 25.0, 4-14, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+42, -87, 0, -23, 25.0, 4-24, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+42, -31, 0, 13, 25.0, 4-64, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-48, 2
+42, -34, 0, 33, 25.0, 4-65, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-48, 2
+42, -49, 0, 29, 25.0, 4-66, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-48, 2
+42, -37, 0, 18, 25.0, 4-48, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+42, 45, 0, -77, 25.0, 4-67, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-17, 2
+42, 59, 0, -93, 25.0, 4-68, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-17, 2
+42, 48, 0, -83, 25.0, 4-17, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+42, 23, 0, -68, 25.0, 4-69, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-44, 2
+42, 26, 0, -76, 25.0, 4-44, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+43, -75, 0, -74, 25.0, 4-49, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+45, -66, 0, -46, 25.0, 4-10, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+45, -98, 0, 44, 25.0, 4-70, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-28, 2
+45, -113, 0, 49, 25.0, 4-71, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-28, 2
+45, -96, 0, 54, 25.0, 4-28, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+45, -76, 0, -55, 25.0, 4-72, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-12, 2
+45, -89, 0, -67, 25.0, 4-73, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-12, 2
+45, -89, 0, -54, 25.0, 4-12, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+46, -91, 0, -34, 25.0, 4-43, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+46, 23, 0, 56, 25.0, 4-74, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-9, 2
+46, 19, 0, 57, 25.0, 4-75, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-9, 2
+46, 22, 0, 39, 25.0, 4-76, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-9, 2
+46, 18, 0, 48, 25.0, 4-9, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+46, 13, 0, -128, 25.0, 4-77, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-23, 2
+46, 11, 0, -131, 25.0, 4-78, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-23, 2
+46, 4, 0, -129, 25.0, 4-23, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+46, 82, 0, -11, 25.0, 4-79, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-29, 2
+46, 66, 0, -12, 25.0, 4-29, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+46, 51, 0, 1, 25.0, 4-80, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-42, 2
+46, 47, 0, 7, 25.0, 4-42, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+47, 28, 0, 30, 25.0, 4-81, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-11, 2
+47, 43, 0, 22, 25.0, 4-11, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+47, -83, 0, -11, 25.0, 4-26, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+47, -27, 0, -22, 25.0, 4-82, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-34, 2
+47, -35, 0, -4, 25.0, 4-34, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+49, -46, 0, 12, 25.0, 4-83, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-31, 2
+49, -36, 0, -9, 25.0, 4-84, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-31, 2
+49, -50, 0, -3, 25.0, 4-31, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+50, -61, 0, -32, 25.0, 4-41, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+50, 38, 0, -34, 25.0, 4-85, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-18, 2
+50, 19, 0, -34, 25.0, 4-18, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+50, 61, 0, 1, 25.0, 4-21, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+52, -44, 0, -63, 25.0, 4-86, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-30, 2
+52, -32, 0, -51, 25.0, 4-30, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+52, 28, 0, -44, 25.0, 4-87, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-63, 3
+52, 35, 0, -27, 25.0, 4-63, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+53, -116, 0, 49, 25.0, 4-27, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+54, -43, 0, 72, 25.0, 4-88, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-13, 2
+54, -54, 0, 66, 25.0, 4-89, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-13, 2
+54, -47, 0, 60, 25.0, 4-13, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+55, -3, 0, -129, 25.0, 4-90, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-5, 2
+55, -17, 0, -108, 25.0, 4-91, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-5, 2
+55, -21, 0, -105, 25.0, 4-92, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-5, 2
+55, -14, 0, -120, 25.0, 4-5, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+55, 35, 0, 35, 25.0, 4-7, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+56, -78, 0, -69, 25.0, 4-32, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+58, -11, 0, 24, 25.0, 4-93, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-8, 2
+58, -27, 0, 29, 25.0, 4-8, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+58, -84, 0, -72, 25.0, 4-40, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+59, -45, 0, -72, 25.0, 4-25, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+59, 5, 0, -151, 25.0, 4-94, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-39, 2
+59, 9, 0, -153, 25.0, 4-95, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-39, 2
+59, 9, 0, -159, 25.0, 4-96, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-39, 2
+59, -6, 0, -163, 25.0, 4-39, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+59, 22, 0, 23, 25.0, 4-81, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+60, -84, 0, -57, 25.0, 4-73, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+60, -51, 0, 67, 25.0, 4-33, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+61, 62, 0, -90, 25.0, 4-97, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-68, 3
+61, 69, 0, -100, 25.0, 4-98, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-68, 3
+61, 70, 0, -84, 25.0, 4-68, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+61, 11, 0, 41, 25.0, 4-76, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+62, 24, 0, 51, 25.0, 4-99, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-74, 3
+62, 25, 0, 55, 25.0, 4-100, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-74, 3
+62, 27, 0, 66, 25.0, 4-74, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+62, 26, 0, 64, 25.0, 4-75, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+63, -90, 0, -80, 25.0, 4-50, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+63, -54, 0, 19, 25.0, 4-83, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+63, -110, 0, 75, 25.0, 4-101, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-70, 3
+63, -102, 0, 56, 25.0, 4-70, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+64, -29, 0, -19, 25.0, 4-102, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-82, 3
+64, -15, 0, -17, 25.0, 4-82, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+64, 28, 0, -38, 25.0, 4-85, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+65, 1, 0, 32, 25.0, 4-15, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+66, -7, 0, -17, 25.0, 4-103, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-1, 2
+66, -20, 0, -31, 25.0, 4-1, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+66, 19, 0, 3, 25.0, 4-104, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-4, 2
+66, 20, 0, -8, 25.0, 4-105, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-4, 2
+66, 5, 0, -6, 25.0, 4-4, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+66, -21, 0, -5, 25.0, 4-64, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+67, 13, 0, -68, 25.0, 4-106, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-69, 3
+67, 11, 0, -53, 25.0, 4-69, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+68, -65, 0, -48, 25.0, 4-72, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+70, -143, 0, 45, 25.0, 4-107, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-71, 3
+70, -128, 0, 61, 25.0, 4-108, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-71, 3
+70, -131, 0, 56, 25.0, 4-71, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+71, 34, 0, -66, 25.0, 4-109, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-67, 3
+71, 23, 0, -82, 25.0, 4-67, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+71, -19, 0, 30, 25.0, 4-47, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+73, 9, 0, 49, 25.0, 4-2, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+73, -3, 0, -41, 25.0, 4-35, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+73, -101, 0, -140, 25.0, 4-110, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-36, 2
+73, -107, 0, -164, 25.0, 4-111, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-36, 2
+73, -90, 0, -138, 25.0, 4-112, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-36, 2
+73, -100, 0, -150, 25.0, 4-36, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+73, -116, 0, -8, 25.0, 4-113, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-45, 2
+73, -125, 0, -16, 25.0, 4-114, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-45, 2
+73, -134, 0, -19, 25.0, 4-115, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-45, 2
+73, -118, 0, -17, 25.0, 4-45, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+74, -53, 0, -71, 25.0, 4-46, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+75, -33, 0, 17, 25.0, 4-116, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-65, 3
+75, -52, 0, 16, 25.0, 4-65, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+75, 9, 0, -133, 25.0, 4-90, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+76, 63, 0, -89, 25.0, 4-117, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-20, 2
+76, 60, 0, -70, 25.0, 4-20, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+76, -43, 0, -5, 25.0, 4-48, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+76, -13, 0, 10, 25.0, 4-93, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+76, -23, 0, -12, 25.0, 4-102, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+76, 31, 0, -82, 25.0, 4-118, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-44, 2
+76, 36, 0, -77, 25.0, 4-119, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-44, 2
+76, 34, 0, -92, 25.0, 4-44, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=3
+76, -78, 0, -45, 25.0, 4-14, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+77, 21, 0, -151, 25.0, 4-78, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+77, 26, 0, 2, 25.0, 4-104, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+78, -76, 0, -23, 25.0, 4-10, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+78, -47, 0, -73, 25.0, 4-120, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-86, 3
+78, -61, 0, -72, 25.0, 4-86, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+78, -13, 0, -23, 25.0, 4-103, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+78, 24, 0, -140, 25.0, 4-23, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+79, 20, 0, -137, 25.0, 4-77, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+79, 87, 0, -40, 25.0, 4-121, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-79, 3
+79, 74, 0, -28, 25.0, 4-122, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-79, 3
+79, 84, 0, -21, 25.0, 4-79, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+80, 5, 0, 7, 25.0, 4-22, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+80, 36, 0, 46, 25.0, 4-11, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+80, 33, 0, 28, 25.0, 4-9, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+81, 11, 0, -51, 25.0, 4-123, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-106, 4
+81, 20, 0, -60, 25.0, 4-106, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+82, -58, 0, -74, 25.0, 4-37, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+82, -9, 0, -109, 25.0, 4-124, g_conill_blau_escas, Blue rabbit2, 0-077-350-110, BORN, , , , , 4-92, 3
+82, -5, 0, -103, 25.0, 4-125, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-92, 3
+82, -10, 0, -122, 25.0, 4-92, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+83, 7, 0, -56, 25.0, 4-16, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+83, -55, 0, -17, 25.0, 4-34, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+85, -23, 0, 13, 25.0, 4-84, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+85, -61, 0, -48, 25.0, 4-41, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+85, 45, 0, -22, 25.0, 4-126, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-87, 4
+85, 47, 0, -28, 25.0, 4-87, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+85, 32, 0, -76, 25.0, 4-109, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+85, 49, 0, -92, 25.0, 4-127, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-97, 4
+85, 55, 0, -108, 25.0, 4-97, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+85, -55, 0, -35, 25.0, 4-24, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+86, -77, 0, 11, 25.0, 4-128, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-31, 2
+86, -70, 0, 4, 25.0, 4-31, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=3
+87, 18, 0, 54, 25.0, 4-7, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+87, -65, 0, -25, 25.0, 4-43, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+87, -20, 0, 91, 25.0, 4-129, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-88, 3
+87, -24, 0, 103, 25.0, 4-130, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-88, 3
+87, -28, 0, 96, 25.0, 4-88, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+87, 30, 0, 42, 25.0, 4-99, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+88, -95, 0, -27, 25.0, 4-12, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+88, 81, 0, 3, 25.0, 4-131, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-29, 2
+88, 60, 0, 7, 25.0, 4-132, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-29, 2
+88, 76, 0, 15, 25.0, 4-29, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=3
+88, -36, 0, 0, 25.0, 4-66, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+88, 81, 0, 7, 25.0, 4-80, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+88, -101, 0, -68, 25.0, 4-32, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+88, -130, 0, 75, 25.0, 4-101, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+89, 42, 0, -83, 25.0, 4-119, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+90, -82, 0, -130, 25.0, 4-133, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-110, 3
+90, -114, 0, -125, 25.0, 4-134, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-110, 3
+90, -104, 0, -118, 25.0, 4-135, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-110, 3
+90, -100, 0, -127, 25.0, 4-110, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+91, -124, 0, 76, 25.0, 4-108, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+91, -30, 0, 44, 25.0, 4-136, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-33, 2
+91, -48, 0, 46, 25.0, 4-33, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+92, 31, 0, -188, 25.0, 4-137, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-96, 3
+92, 24, 0, -168, 25.0, 4-138, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-96, 3
+92, 24, 0, -179, 25.0, 4-96, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+92, -18, 0, -80, 25.0, 4-139, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-30, 2
+92, -33, 0, -76, 25.0, 4-30, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=2
+92, -4, 0, 54, 25.0, 4-76, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+92, 43, 0, -13, 25.0, 4-42, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+94, 19, 0, -176, 25.0, 4-94, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+95, -143, 0, 52, 25.0, 4-140, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-107, 4
+95, -143, 0, 68, 25.0, 4-141, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-107, 4
+95, -135, 0, 54, 25.0, 4-107, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+96, -36, 0, 34, 25.0, 4-116, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+96, -68, 0, 102, 25.0, 4-142, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-89, 3
+96, -81, 0, 94, 25.0, 4-143, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-89, 3
+96, -63, 0, 89, 25.0, 4-89, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+96, 46, 0, 8, 25.0, 4-19, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+97, 40, 0, -15, 25.0, 4-126, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+97, -54, 0, -42, 25.0, 4-25, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+97, -99, 0, -159, 25.0, 4-144, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-111, 3
+97, -96, 0, -159, 25.0, 4-111, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+97, 8, 0, -6, 25.0, 4-82, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+98, -112, 0, -101, 25.0, 4-145, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-40, 2
+98, -113, 0, -86, 25.0, 4-40, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+98, -2, 0, -107, 25.0, 4-146, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-125, 4
+98, -7, 0, -114, 25.0, 4-125, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+98, 40, 0, -120, 25.0, 4-17, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+98, 7, 0, -24, 25.0, 4-85, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+99, -81, 0, 1, 25.0, 4-128, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+99, -136, 0, -5, 25.0, 4-147, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-26, 2
+99, -128, 0, -7, 25.0, 4-148, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-26, 2
+99, -133, 0, -8, 25.0, 4-149, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-26, 2
+99, -120, 0, 4, 25.0, 4-26, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+99, -77, 0, -37, 25.0, 4-49, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+100, 5, 0, 63, 25.0, 4-150, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-75, 3
+100, 7, 0, 77, 25.0, 4-75, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+100, -97, 0, -157, 25.0, 4-112, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+100, 54, 0, -79, 25.0, 4-6, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+100, -89, 0, -70, 25.0, 4-38, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+102, -31, 0, -1, 25.0, 4-8, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+102, -16, 0, -103, 25.0, 4-151, g_conill_blau_escas, Blue rabbit2, 0-077-350-110, BORN, , , , , 4-124, 4
+102, -24, 0, -123, 25.0, 4-152, g_conill_blau_escas, Blue rabbit2, 0-077-350-010, BORN, , , , , 4-124, 4
+102, -24, 0, -104, 25.0, 4-124, g_conill_blau_escas, Blue rabbit2, 0-077-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+102, 55, 0, 16, 25.0, 4-132, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+104, -23, 0, 48, 25.0, 4-136, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+104, -106, 0, 78, 25.0, 4-28, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+104, -64, 0, 52, 25.0, 4-153, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-83, 3
+104, -63, 0, 36, 25.0, 4-154, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-83, 3
+104, -73, 0, 20, 25.0, 4-155, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-83, 3
+104, -73, 0, 40, 25.0, 4-83, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=3, offSpring=3.0  births=3
+104, -119, 0, -65, 25.0, 4-156, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-50, 2
+104, -123, 0, -81, 25.0, 4-50, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+104, 3, 0, 13, 25.0, 4-157, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-4, 2
+104, 8, 0, 24, 25.0, 4-158, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-4, 2
+104, -7, 0, 20, 25.0, 4-4, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=4
+105, 21, 0, 38, 25.0, 4-100, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+105, -152, 0, 87, 25.0, 4-159, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-71, 3
+105, -147, 0, 80, 25.0, 4-71, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=3
+108, -14, 0, -90, 25.0, 4-139, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+108, 25, 0, 7, 25.0, 4-18, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+109, -120, 0, -50, 25.0, 4-160, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-45, 2
+109, -134, 0, -39, 25.0, 4-45, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=4
+109, -88, 0, -31, 25.0, 4-161, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-114, 3
+109, -106, 0, -34, 25.0, 4-114, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=1, offSpring=3.0  births=1
+109, -87, 0, -146, 25.0, 4-162, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, BORN, , , , , 4-133, 4
+109, -96, 0, -137, 25.0, 4-163, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, BORN, , , , , 4-133, 4
+109, -96, 0, -132, 25.0, 4-133, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=2, offSpring=3.0  births=2
+109, -28, 0, 34, 25.0, 4-15, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+109, -83, 0, 73, 25.0, 4-27, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+109, 51, 0, -15, 25.0, 4-105, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+110, -2, 0, -66, 25.0, 4-91, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+110, 54, 0, 88, 25.0, 4-74, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+110, 70, 0, -95, 25.0, 4-20, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+110, -111, 0, -113, 25.0, 4-134, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+111, -50, 0, -132, 25.0, 4-5, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+111, 51, 0, 18, 25.0, 4-9, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+111, 108, 0, -22, 25.0, 4-79, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+111, -6, 0, 64, 25.0, 4-2, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+111, 9, 0, -3, 25.0, 4-63, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+112, -32, 0, 10, 25.0, 4-48, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+112, 11, 0, 58, 25.0, 4-150, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+113, -12, 0, 104, 25.0, 4-129, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+113, -54, 0, 103, 25.0, 4-13, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=2
+113, -31, 0, 17, 25.0, 4-102, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+114, -118, 0, 95, 25.0, 4-70, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=1
+114, -32, 0, -35, 25.0, 4-64, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+115, 113, 0, 53, 25.0, 4-3, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+115, -76, 0, 5, 25.0, 4-10, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+115, -125, 0, 0, 25.0, 4-149, g_conill_blau_escas, Blue rabbit2, 0-067-350-010, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
+116, -107, 0, -171, 25.0, 4-36, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=3
+116, -33, 0, -78, 25.0, 4-46, g_conill_blau_escas, Blue rabbit2, 0-067-350-110, TRY BIRTH, , , , , tryOk=0, offSpring=3.0  births=0
